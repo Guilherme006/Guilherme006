@@ -29,11 +29,6 @@ Também tenho experiência prática em:
 
 ## 📊 GitHub Stats
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme006&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme006&layout=compact)
-
-
 - LinkedIn: [linkedin.com/in/guilhermelazari](https://www.linkedin.com/in/guilherme-lazari-980658179/)
 
 
