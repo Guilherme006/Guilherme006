@@ -21,9 +21,9 @@ Também tenho experiência prática em:
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- Linguagens: Python, Java, JavaScript, TypeScript, SQL, C, C#
-- Frameworks: Flask, React, Node.js, Express, Tailwind CSS
-- Ferramentas: Git, Postman, Docker, MQTT, Packet Tracer, ESP32 
+- **Linguagens:** Python, Java, JavaScript, TypeScript, SQL, C, C#
+- **Frameworks:** Flask, React, Node.js, Express, Tailwind CSS
+- **Ferramentas:** Git, Postman, Docker, MQTT, Packet Tracer, ESP32 
 
 ## 📫 Como me encontrar
 
