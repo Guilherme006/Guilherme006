@@ -27,8 +27,6 @@ Também tenho experiência prática em:
 
 ## 📫 Como me encontrar
 
-## 📊 GitHub Stats
-
 - LinkedIn: [linkedin.com/in/guilhermelazari](https://www.linkedin.com/in/guilherme-lazari-980658179/)
 
 
