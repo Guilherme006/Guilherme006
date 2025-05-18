@@ -1,8 +1,11 @@
 # 👋 Olá, eu sou o Guilherme Lazari!
 
 💻 Estagiário de Engenharia de Software no Asaas
+
 🎓 Estudante de Ciência da Computação na PUCPR
+
 ⚖️ Especialização em Direito Tributário pela PUCPR  
+
 🧠 Entusiasta em Segurança da Informação, Inteligência Artificial, Propriedade Intelectual e Direito Fiscal  
 
 ## 🚀 Sobre mim
