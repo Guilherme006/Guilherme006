@@ -27,7 +27,7 @@ Também tenho experiência prática em:
 
 ## 📫 Como me encontrar
 
-- LinkedIn: [linkedin.com/in/guilhermelazari](https://www.linkedin.com/in/guilherme-lazari-980658179/)
+- [LinkedIn](https://www.linkedin.com/in/guilherme-lazari-980658179/)
 
 
 *"Conhecimento é poder, mas aplicá-lo com propósito é liberdade."*
